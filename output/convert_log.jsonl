@@ -2,7 +2,8 @@
 {"law_name": "中华人民共和国刑法", "json_path": "output/chunk_output_中华人民共和国刑法.json", "raw_path": "output/chunk_output_中华人民共和国刑法.txt"}
 {"law_name": "中华人民共和国反间谍法_20230426", "json_path": "output/chunk_output_中华人民共和国反间谍法_20230426.json", "raw_path": "output/chunk_output_中华人民共和国反间谍法_20230426.txt"}
 {"law_name": "中华人民共和国妇女权益保障法_20221030", "json_path": "output/chunk_output_中华人民共和国妇女权益保障法_20221030.json", "raw_path": "output/chunk_output_中华人民共和国妇女权益保障法_20221030.txt"}
-{"law_name": "中华人民共和国劳动法", "json_path": "output/chunk_output_中华人民共和国劳动法.json", "raw_path": "output/chunk_output_中华人民共和国劳动法.txt"}{"law_name": "中华人民共和国个人信息保护法_20210820", "json_path": "output/chunk_output_中华人民共和国个人信息保护法_20210820.json", "raw_path": "output/chunk_output_中华人民共和国个人信息保护法_20210820.txt"}
+{"law_name": "中华人民共和国劳动法", "json_path": "output/chunk_output_中华人民共和国劳动法.json", "raw_path": "output/chunk_output_中华人民共和国劳动法.txt"}
+{"law_name": "中华人民共和国个人信息保护法_20210820", "json_path": "output/chunk_output_中华人民共和国个人信息保护法_20210820.json", "raw_path": "output/chunk_output_中华人民共和国个人信息保护法_20210820.txt"}
 {"law_name": "中华人民共和国乡村振兴促进法_20210429", "json_path": "output/chunk_output_中华人民共和国乡村振兴促进法_20210429.json", "raw_path": "output/chunk_output_中华人民共和国乡村振兴促进法_20210429.txt"}
 {"law_name": "中华人民共和国人口与计划生育法_20210820", "json_path": "output/chunk_output_中华人民共和国人口与计划生育法_20210820.json", "raw_path": "output/chunk_output_中华人民共和国人口与计划生育法_20210820.txt"}
 {"law_name": "中华人民共和国会计法_20240628", "json_path": "output/chunk_output_中华人民共和国会计法_20240628.json", "raw_path": "output/chunk_output_中华人民共和国会计法_20240628.txt"}
@@ -22,3 +23,6 @@
 {"law_name": "中华人民共和国公司法_20231229", "json_path": "output/chunk_output_中华人民共和国公司法_20231229.json", "raw_path": "output/chunk_output_中华人民共和国公司法_20231229.txt"}
 {"law_name": "中华人民共和国关税法_20240426", "json_path": "output/chunk_output_中华人民共和国关税法_20240426.json", "raw_path": "output/chunk_output_中华人民共和国关税法_20240426.txt"}
 {"law_name": "中华人民共和国军事设施保护法_20210610", "json_path": "output/chunk_output_中华人民共和国军事设施保护法_20210610.json", "raw_path": "output/chunk_output_中华人民共和国军事设施保护法_20210610.txt"}
+{"law_name": "中华人民共和国军人地位和权益保障法_20210610", "json_path": "output/chunk_output_中华人民共和国军人地位和权益保障法_20210610.json", "raw_path": "output/chunk_output_中华人民共和国军人地位和权益保障法_20210610.txt"}
+{"law_name": "中华人民共和国农业技术推广法_20240426", "json_path": "output/chunk_output_中华人民共和国农业技术推广法_20240426.json", "raw_path": "output/chunk_output_中华人民共和国农业技术推广法_20240426.txt"}
+{"law_name": "中华人民共和国农产品质量安全法_20220902", "json_path": "output/chunk_output_中华人民共和国农产品质量安全法_20220902.json", "raw_path": "output/chunk_output_中华人民共和国农产品质量安全法_20220902.txt"}
