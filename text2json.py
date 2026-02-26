@@ -178,13 +178,15 @@ class Text2Json:
     def text_to_json_file(self, input_text: str, law_name: str) -> Path | None:
         law_name = self.safe_stem(law_name)
 
-        # 重复转换直接跳过
-        if law_name in self.done_names:
-            print(f"[SKIP] already converted => {law_name}")
-            return None
-
         out_path = Path(f"{self.out_dir.as_posix()}/chunk_output_{law_name}.json")
         raw_out_path = Path(f"{self.out_dir.as_posix()}/chunk_output_{law_name}.txt")
+
+        # ✅ 更稳：日志里有，或者 json 文件已经存在，都跳过
+        if law_name in self.done_names or out_path.exists():
+            print(f"[SKIP] already converted => {law_name}")
+            if law_name not in self.done_names:
+                self.done_names.add(law_name)
+            return None
 
         self.ensure_parent_dir(out_path)
 
