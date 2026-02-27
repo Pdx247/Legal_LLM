@@ -63,7 +63,7 @@ def prompt_go_on(timeout_sec: int = 30) -> bool:
 
 def main():
     BASE_URL = "https://api.siliconflow.cn/v1"
-    MODEL_CHUNK = "Pro/zai-org/GLM-5"
+    MODEL_CHUNK = "Pro/moonshotai/Kimi-K2.5"
 
     PROMPT_INPUT_PATH = "./prompts/prompts_chunk_input_text.txt"
     PROMPT_OUTPUT_PATH = "./prompts/prompts_chunk_output_json.json"
